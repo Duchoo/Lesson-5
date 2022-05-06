@@ -3,9 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
-header ul {
-  display: inline-block;
-  vertical-align: top;
+ {
+  /* header ul { */
+  /* display: inline-block;
+  vertical-align: top; */
 }
 .contact {
   background-color: white;
@@ -14,6 +15,12 @@ header ul {
   padding: 18px 43px 18px 35px;
   height: unset;
   text-align: center;
+}
+nav {
+  margin-left: 200px;
+}
+li {
+  display: inline-block;
 }
 header {
   background-color: #0020f4;
