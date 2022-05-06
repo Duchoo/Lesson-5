@@ -51,6 +51,11 @@ ol {
 header img {
   width: 115px;
 }
+.footer-h1 {
+  margin-left: 80px;
+  margin-bottom: 770px;
+  margin-top: 455px;
+}
 h2 {
   /* text-align: center; */
   color: #171717;
@@ -75,6 +80,7 @@ h3 {
   height: 55px;
   text-align: center;
   margin-top: 76px;
+  margin-left: 500px;
 }
 h3 a {
   color: #ffffff;
@@ -102,4 +108,9 @@ footer {
   font-size: 16px;
   height: 1080px;
   margin-top: 180px;
+}
+footer p {
+  font-size: 16px;
+  color: #ffffff;
+  margin-top: 30px;
 }
