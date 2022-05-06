@@ -3,23 +3,21 @@
   padding: 0;
   box-sizing: border-box;
 }
-header ul {
+p {
+  font-family: "HelveticaNeue";
+}
+header nav {
   display: inline-block;
+  margin-left: 200px;
   vertical-align: top;
 }
-p {
-  font-family: "";
-}
 .contact {
-  background-color: white;
+  background-color: #ffffff;
   border-radius: 28px;
   width: 160px;
   padding: 18px 43px 18px 35px;
   height: unset;
   text-align: center;
-}
-nav {
-  margin-left: 200px;
 }
 li {
   display: inline-block;
@@ -31,6 +29,7 @@ li {
 header {
   background-color: #0020f4;
   height: 388px;
+  margin-bottom: -150px;
 }
 a {
   text-decoration: none;
