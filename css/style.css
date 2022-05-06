@@ -1,3 +1,12 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+header ul {
+	display: inline-block;
+	vertical-align: top;
+}
 header{
     background-color: #0020F4;
     height: 388px;
@@ -55,4 +64,5 @@ nav a{
        background-color: #0A22F4;
        color: #ffffff;
        font-size: 16px;
+       height: 1080px;
    }
