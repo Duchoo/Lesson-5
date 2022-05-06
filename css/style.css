@@ -7,6 +7,14 @@ header ul {
   display: inline-block;
   vertical-align: top;
 }
+.contact {
+  background-color: white;
+  border-radius: 28px;
+  width: 160px;
+  padding: 18px 43px 18px 35px;
+  height: unset;
+  text-align: center;
+}
 header {
   background-color: #0020f4;
   height: 388px;
