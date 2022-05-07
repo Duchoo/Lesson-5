@@ -127,3 +127,12 @@ footer p {
   display: inline-block;
   margin-top: 850px;
 }
+h2,
+.add-more,
+h1 {
+  font-family: "Helvetica Neue Bold";
+}
+p,
+nav {
+  font-family: "Helvetica Neue";
+}
